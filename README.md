@@ -1,1 +1,1 @@
-[Тествоое задание](https://revchik.github.io/Testovoe/)
+[Тестовое задание](https://revchik.github.io/Testovoe/)
